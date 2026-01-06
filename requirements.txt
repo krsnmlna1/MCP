@@ -1,0 +1,8 @@
+mcp
+psutil
+pycaw
+comtypes
+screen_brightness_control
+mss
+pygetwindow
+Pillow
